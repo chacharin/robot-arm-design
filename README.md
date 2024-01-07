@@ -7,3 +7,4 @@
 by Chacharin Lertyosbordin, Panyakorn Singhadoung, Rawikorn Klabprasit, and Pawnteera Klabprasit </p>
 
 <img src="https://github.com/chacharin/robot-arm-design/blob/main/full3.jpg" width="300" >
+<img src="https://github.com/chacharin/robot-arm-design/blob/main/software-control.JPG" width="300">
